@@ -1,0 +1,15 @@
+{
+  "name": "highscoreserver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "scores.js",
+  "dependencies": {
+    "body": "^5.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
